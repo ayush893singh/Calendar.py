@@ -1,8 +1,8 @@
-Calendar Generator
+# Calendar Generator
 
 A simple and user-friendly Python Calendar Generator that allows users to view a complete year's calendar, display a specific month's calendar, and check whether a year is a leap year.
 
-Features
+# Features
 
 - Display complete calendar for any year
 - Display calendar for a specific month
@@ -13,7 +13,7 @@ Features
 - Uses Python's built-in "calendar" module
 - No external libraries required
 
-Technologies Used
+# Technologies Used
 
 - Python 3
 - "calendar" module
@@ -22,7 +22,7 @@ Technologies Used
 - Exception handling
 - User input
 
-Menu Options
+# Menu Options
 
 Option| Function
 1| Show Complete Year
@@ -30,7 +30,7 @@ Option| Function
 3| Check Leap Year
 4| Exit
 
-Example
+## Example
 
 ========================================
           CALENDAR GENERATOR
@@ -64,7 +64,7 @@ Calendar-Generator/
 ├── CalendarGenerator.py
 └── README.md
 
-How to Run
+# How to Run
 
 1. Install Python
 
@@ -107,7 +107,7 @@ By creating this project, I practiced:
 - Taking user input
 - Formatting console output
 
-Future Improvements
+# Future Improvements
 
 - Add a graphical user interface
 - Export calendars to PDF
