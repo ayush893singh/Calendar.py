@@ -125,10 +125,4 @@ This project is designed to practice Python fundamentals while building a small 
 
 Author
 
-Ayush Singh
-
-BCA Student | Python Programmer | Learning DSA
-
-License
-
-This project is open source and available for learning and educational purposes.
+Ayush Singh https://github.com/ayush893singh
