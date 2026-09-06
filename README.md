@@ -123,6 +123,5 @@ Beginner Python Project
 
 This project is designed to practice Python fundamentals while building a small and practical utility.
 
-Author
-
+# Author
 Ayush Singh https://github.com/ayush893singh
